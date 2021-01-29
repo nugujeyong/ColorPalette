@@ -1,12 +1,10 @@
 # ColorPalette
 
-Gerate Color Palette from images!! 
-
-# Results
-
 ![phantom_palette](https://user-images.githubusercontent.com/59949284/106217358-69e0a800-6218-11eb-8581-87c0c90aff03.png)
 
 ![junglebirds_palette](https://user-images.githubusercontent.com/59949284/106217752-48cc8700-6219-11eb-8bbe-dfdd1d55240d.png)
+
+![cyberpunk_palette](https://user-images.githubusercontent.com/59949284/106218104-06f01080-621a-11eb-98b0-80839a34d9e9.png)
 
 ![rainbow_palette](https://user-images.githubusercontent.com/59949284/106217754-4a964a80-6219-11eb-9efb-fac255d0c464.png)
 
@@ -20,4 +18,12 @@ Gerate Color Palette from images!!
 
 
 # How to use
+
 Put images in the 'images' folder
+Results are saved in 'palettes' folder
+
+Execute by typing below. 'imgname' is the name of the imagefile. 
+```
+cd "path_to_the_folder"
+python ColorPalette.py imgname.jpg
+```
