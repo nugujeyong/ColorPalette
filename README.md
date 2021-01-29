@@ -1,8 +1,10 @@
 # ColorPalette
 
-Gerate representative Colors from images!! 
+Gerate Color Palette from images!! 
 
 # Results
+
+![phantom_palette](https://user-images.githubusercontent.com/59949284/106217358-69e0a800-6218-11eb-8581-87c0c90aff03.png)
 
 ![junglebirds_palette](https://user-images.githubusercontent.com/59949284/106217752-48cc8700-6219-11eb-8bbe-dfdd1d55240d.png)
 
@@ -14,8 +16,8 @@ Gerate representative Colors from images!!
 
 ![laferrari_palette](https://user-images.githubusercontent.com/59949284/106217352-664d2100-6218-11eb-938d-139320482040.png)
 
-![phantom_palette](https://user-images.githubusercontent.com/59949284/106217358-69e0a800-6218-11eb-8581-87c0c90aff03.png)
-
 ![pocari_palette](https://user-images.githubusercontent.com/59949284/106217360-6b11d500-6218-11eb-9633-cae40ba36616.png)
 
 
+# How to use
+Put images in the 'images' folder
