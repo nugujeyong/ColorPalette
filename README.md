@@ -1,7 +1,12 @@
 # ColorPalette
 
 Gerate representative Colors from images!! 
+
 # Results
+
+![junglebirds_palette](https://user-images.githubusercontent.com/59949284/106217752-48cc8700-6219-11eb-8bbe-dfdd1d55240d.png)
+
+![rainbow_palette](https://user-images.githubusercontent.com/59949284/106217754-4a964a80-6219-11eb-9efb-fac255d0c464.png)
 
 ![coke_palette](https://user-images.githubusercontent.com/59949284/106217347-65b48a80-6218-11eb-877e-95ceccf53a6b.png)
 
@@ -13,4 +18,4 @@ Gerate representative Colors from images!!
 
 ![pocari_palette](https://user-images.githubusercontent.com/59949284/106217360-6b11d500-6218-11eb-9633-cae40ba36616.png)
 
-![Uploading ocean_palette.png…]()
+
