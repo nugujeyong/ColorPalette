@@ -1,5 +1,7 @@
 # ColorPalette
 
+https://github.com/nugujeyong/ColorPalette
+
 ![phantom_palette](https://user-images.githubusercontent.com/59949284/106217358-69e0a800-6218-11eb-8581-87c0c90aff03.png)
 
 ![cyberpunk_palette](https://user-images.githubusercontent.com/59949284/106218104-06f01080-621a-11eb-98b0-80839a34d9e9.png)
