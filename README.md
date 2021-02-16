@@ -1,6 +1,6 @@
 # ColorPalette
 
-https://github.com/nugujeyong/ColorPalette
+[https://github.com/nugujeyong/ColorPalette](https://github.com/nugujeyong/ColorPalette)
 
 ![phantom_palette](https://user-images.githubusercontent.com/59949284/106217358-69e0a800-6218-11eb-8581-87c0c90aff03.png)
 
